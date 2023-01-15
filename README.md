@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**mr-chacha/mr-chacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>저는</h1>
 
-Here are some ideas to get you started:
+- 프론트엔드 개발자 입니다.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
