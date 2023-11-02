@@ -32,7 +32,5 @@
 <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white"/> 
-<img src="https://img.shields.io/badge/AWS-Lambda-FB542B?style=flat-square&logo=amazon-aws&logoColor=white"/>
-
-
+<img src="https://img.shields.io/badge/AWS-Lightsail-000000?style=flat-square&logo=amazon-aws&logoColor=white"/> 
 </div>
