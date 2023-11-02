@@ -15,6 +15,7 @@
 <br></br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> 
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Recoil-66D7D1?style=flat-square&logo=react&logoColor=white"/> 
 <img src="https://img.shields.io/badge/React_Query-00BFFF?style=flat-square&logo=react-query&logoColor=white"/>
 <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white"/>
 <br></br>
@@ -31,6 +32,7 @@
 <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white"/> 
+<img src="https://img.shields.io/badge/AWS-Lambda-FB542B?style=flat-square&logo=amazon-aws&logoColor=white"/>
 
 
 </div>
