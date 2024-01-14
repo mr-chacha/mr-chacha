@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
  <img src="https://img.shields.io/badge/Electron-f7df1e?style=flat-square&logo=electron&logoColor=white" alt="Electron Logo"/>
 
-<img src="https://img.shields.io/badge/Electron-white?style=flat-square&logo=electron&logoColor=#8CC84B" alt="Electron Logo"/>
+<img src="https://img.shields.io/badge/Electron-white?style=flat-square&logo=electron&logoColor=#028399" alt="Electron Logo"/>
 
  <h3>Back-End Development Skill</h3>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
